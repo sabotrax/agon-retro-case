@@ -11,11 +11,12 @@ The parts can be printed on a normal-sized printer. Some assembly is required.
 
 * 1x Cherry G84-4100 mini keyboard. The keyboard is relatively expensive, but it's also available used or as B-stock. Mine cost 19 euros on eBay.
 * 1x QIANRENON USB A U-shaped adapter. You can also omit the adapter, but then the keyboard cable will be visible outside the case.
-* 1x IDC/flat ribbon cable 34 pin extension (male/female) cable 30 cm.
-* 1x IDC/flat ribbon cable 10 pin extension (male/female) cable 30 cm.
-* 14x M3x10 screws.
-* 15x M3x12 screws.
-* 29x M3 screw nuts.
+* 1x IDC/flat ribbon cable 34 pin extension cable (male/female) 30 cm.
+* 1x IDC/flat ribbon cable 10 pin extension cable (male/female) 30 cm.
+* 20x M3x10 screws.
+* 14x M3x12 screws.
+* 3x M3x16 screws.
+* 37x M3 screw nuts.
 
 ## Assembly instructions
 
@@ -30,9 +31,9 @@ Please also check the [assembly pictures](https://github.com/sabotrax/agon-retro
 * Undercarriage
   * Fit the nuts (1x M3 each) into the vertical slots of the back wall supports in the rear corners.
   * Fit the nuts (2x M3 each) into the horizontal slots of the foot supports in the front and rear corners.
-  * Fit the nuts (3x M3) into the horizontal slots of the brackets for the expansion ports on the rear left side.
+  * Fit the nuts (3x M3) into the horizontal slots of the bracket for the expansion ports on the rear left side.
   * Insert screws for the Agon board (4x M3x10) on the rear right side.
-  * Connect parts (6x M3x12 with nuts).
+  * Connect parts (5x M3x12 with nuts).
 
 * Side walls
   * Fit nuts (6x M3 each). Should be a tight fit. I used small pliers with gentle pressure.
@@ -41,8 +42,8 @@ Please also check the [assembly pictures](https://github.com/sabotrax/agon-retro
 * Agon board and expansion ports
   * Connect the flat ribbon cables to the expansion ports of the board.
   * Slide the flat ribbon cables into the clip. They only fit in one way.
-  * Secure the board (4x M3 nuts). There should be about 1 mm of space between the flat ribbon cables coming out of the board and the rear keyboard rest.
-  * Screw the clip onto the holder at the back left.
+  * Secure the board (4x M3 nuts). There should be about 1 mm of space between the flat ribbon cables at the board and the rear keyboard rest.
+  * Screw (3x M3x16) the clip onto the bracket at the rear left.
 
 * Back wall
   * Fit nuts (1x M3 each) into the horizontal slots on the inner sides.
@@ -50,7 +51,7 @@ Please also check the [assembly pictures](https://github.com/sabotrax/agon-retro
   * Place the keyboard on the supports so that it rests against the horizontal stops.
   * Guide the keyboard cable beneath the Agon board towards the back.
   * Place the back wall against the housing so that the USB connector of the keyboard cable passes through the cutout in the lower right side of the panel.
-  * Attach to the undercarriage (4x M3x10).
+  * Attach to the undercarriage (2x M3x10 back, 2x M3x10 bottom).
   * Connect keyboard cable, USB adapter, and board.
 
 * Top cover
@@ -65,6 +66,9 @@ Please also check the [assembly pictures](https://github.com/sabotrax/agon-retro
 
 * Blinds
   * Insert both blinds into the gap between the keyboard frame and the top cover. Press the outer part of the blind into the housing first, and then the inner part, aligning the pin with the receptacle on the top cover. Depending on your 3D printer's tolerance, the fit between the blind and side wall can be tight.
+
+* Feet
+  * Screw the feet (4x M3x10) into the receptacles on the underside of the case.
 
 ## Shortcomings
 
