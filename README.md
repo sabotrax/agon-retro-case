@@ -78,6 +78,7 @@ Please also check the [assembly pictures](https://github.com/sabotrax/agon-retro
 
 * PLA 20% grid infill.
 * Most parts can be printed without support, but with support, the scew holes look better.
+* Be sure to exclude the horizontal slots for the nuts in the holders for the feet when printing with support, as removing support material from them can be challenging.
 * The blinds should be printed standing upright on the outer side with support.
 * I printed the LED cover in transparent PETG.
 * Approximate filament amount: 400g
