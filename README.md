@@ -50,7 +50,7 @@ Please also check the [assembly pictures](https://github.com/sabotrax/agon-retro
   * Connect parts (1x M3x12 with nut).
   * Place the keyboard on the supports so that it rests against the horizontal stops.
   * Guide the keyboard cable beneath the Agon board towards the back.
-  * Place the back wall against the housing so that the USB connector of the keyboard cable passes through the cutout in the lower right side of the panel.
+  * Place the back wall against the undercarriage so that the USB connector of the keyboard cable passes through the cutout in the lower right side of the panel.
   * Attach to the undercarriage (2x M3x10 back, 2x M3x10 bottom).
   * Connect keyboard cable, USB adapter, and board.
 
