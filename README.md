@@ -5,6 +5,9 @@ I wanted to create a case in the style of the home computers of the 1980s.
 
 The parts can be printed on a normal-sized printer. Some assembly is required.
 
+|<img src="https://github.com/sabotrax/agon-retro-case/blob/main/pic/presentation/ac15-top-2.jpg" width="300">|<img src="https://github.com/sabotrax/agon-retro-case/blob/main/pic/presentation/ac15-left.jpg" width="300">|
+|<img src="https://github.com/sabotrax/agon-retro-case/blob/main/pic/presentation/ac15-left_back.jpg" width="300">|<img src="https://github.com/sabotrax/agon-retro-case/blob/main/pic/presentation/ac15-right_back.jpg" width="300">|
+|<img src="https://github.com/sabotrax/agon-retro-case/blob/main/pic/presentation/ac15-bottom.jpg" width="300">|
 
 
 ## Bill of materials
@@ -78,7 +81,7 @@ Please also check the [assembly pictures](https://github.com/sabotrax/agon-retro
 
 * PLA 20% grid infill.
 * Most parts can be printed without support, but with support, the scew holes look better.
-* Be sure to exclude the horizontal slots for the nuts in the holders for the feet when printing with support, as removing support material from them can be challenging.
-* The blinds should be printed standing upright on the outer side with support.
+* If you print the base plates with supports, make sure to exclude the horizontal slots for the screw nuts, because the support material is difficult to remove from them.
+* The blinds should be printed with supports standing upright on the outer side.
 * I printed the LED cover in transparent PETG.
 * Approximate filament amount: 400g
